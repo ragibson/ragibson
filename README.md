@@ -10,10 +10,10 @@ hobby projects.
 Feel free to look through my repositories list (many are private), but I've
 linked some projects in the images below!
 
-[![Steganography illustration](images/Steganography_200px.png)](https://github.com/ragibson/Steganography)
-[![ModularityPruning illustration](images/ModularityPruning_200px.png)](https://github.com/ragibson/ModularityPruning)
-[![FPGA-Asteroids illustration](images/FPGA-Asteroids_200px.png)](https://github.com/ragibson/FPGA-Asteroids)
-[![DRRRT-motion-planning illustration](images/DRRRT-motion-planning_200px.png)](https://github.com/ragibson/DRRRT-motion-planning)
+<a href="https://github.com/ragibson/Steganography"><img alt="Steganography illustration" src="images/Steganography_200px.png" width=140></a>
+<a href="https://github.com/ragibson/ModularityPruning"><img alt="ModularityPruning illustration" src="images/ModularityPruning_200px.png" width=140></a>
+<a href="https://github.com/ragibson/FPGA-Asteroids"><img alt="FPGA-Asteroids illustration" src="images/FPGA-Asteroids_200px.png" width=140></a>
+<a href="https://github.com/ragibson/DRRRT-motion-planning"><img alt="DRRRT-motion-planning illustration" src="images/DRRRT-motion-planning_200px.png" width=140></a>
 
 ### Some of My Interests
 
