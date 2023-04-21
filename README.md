@@ -5,6 +5,9 @@ focusing on risk model research, development, maintenance, and monitoring. In
 much of my free time, I work on mathematical, statistical, and programming
 hobby projects.
 
+Feel free to reach out with any questions, comments, or ideas and I'll try to
+respond reasonably quickly!
+
 ### Some Projects
 
 Feel free to look through my repositories list (many are private), but I've
@@ -25,6 +28,6 @@ research interests including
  - 💽 Operating Systems
  - 🔋 Microarchitecture
 
-More recently, I've been additionally interested in
+More recently, I've been additionally working on
  - 🤖 Machine Learning
  - 🧮 Numerical Analysis
