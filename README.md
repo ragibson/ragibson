@@ -1,4 +1,4 @@
-## Hi! I'm Ryan
+## Hi! I'm Ryan -- https://ryanagibson.com
 
 I am currently working as a Quantitative Analyst at Wells Fargo, primarily
 focusing on risk model research, development, maintenance, and monitoring. In
@@ -7,8 +7,6 @@ hobby projects.
 
 Feel free to reach out with any questions, comments, or ideas and I'll try to
 respond reasonably quickly!
-
-See https://ryanagibson.com for more information.
 
 ### Some Projects
 
