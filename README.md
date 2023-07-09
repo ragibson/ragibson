@@ -8,6 +8,8 @@ hobby projects.
 Feel free to reach out with any questions, comments, or ideas and I'll try to
 respond reasonably quickly!
 
+See https://ryanagibson.com for more information.
+
 ### Some Projects
 
 Feel free to look through my repositories list (many are private), but I've
@@ -17,17 +19,3 @@ linked some projects in the images below!
 [![ModularityPruning illustration](images/ModularityPruning_200px.png)](https://github.com/ragibson/ModularityPruning)
 [![FPGA-Asteroids illustration](images/FPGA-Asteroids_200px.png)](https://github.com/ragibson/FPGA-Asteroids)
 [![DRRRT-motion-planning illustration](images/DRRRT-motion-planning_200px.png)](https://github.com/ragibson/DRRRT-motion-planning)
-
-### Some of My Interests
-
-In university, my education was in Pure Mathematics and Computer Science with
-research interests including
- - 🕸️ Network Science
- - 🚅 High Performance Computing
- - 🔐 Cybersecurity
- - 💽 Operating Systems
- - 🔋 Microarchitecture
-
-More recently, I've been additionally working on
- - 🤖 Machine Learning
- - 🧮 Numerical Analysis
