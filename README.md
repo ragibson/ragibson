@@ -1,9 +1,12 @@
 ## Hi! I'm Ryan
 
-I am currently a Quantitative Analyst at Wells Fargo, where I focus on
+I am a Computer Scientist and Mathematician with a wide range of technical
+interests. In my free time, I enjoy working on mathematical, statistical,
+and programming projects as personal hobbies.
+
+Currently, I work as a Quantitative Analyst at Wells Fargo, where I focus on
 researching, developing, and monitoring risk models across a broad range of
-asset classes. In my free time, I enjoy working on mathematical, statistical,
-and programming hobby projects.
+asset classes.
 
 Feel free to reach out via email with any questions, comments, or ideas. I aim
 to respond reasonably quickly!
