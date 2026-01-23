@@ -15,8 +15,10 @@ https://ryanagibson.com
 
 ### Some Projects
 
-Feel free to look through my repositories list (many are private), but I've
-linked some projects in the images below!
+A list of many of my personal projects is available at
+[Projects](https://ryanagibson.com/projects/).
+
+I have also linked some GitHub projects in the images below!
 
 [![Steganography illustration](images/Steganography_200px.png)](https://github.com/ragibson/Steganography)
 [![ModularityPruning illustration](images/ModularityPruning_200px.png)](https://github.com/ragibson/ModularityPruning)
